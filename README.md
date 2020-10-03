@@ -1,2 +1,2 @@
 # Java-Practice
-# this just a practice programing solutions
+this just a practice programing solutions
